@@ -2,8 +2,8 @@ http:
   address: 0.0.0.0:3000
   session_ttl: 720h
 users:
-  - name: admin
-    password: $2y$10$vHRcARdPCieYG3RXWomV5evDYN.Nj/edtwEkQgQJZcK6z7qTLaIc6
+  - name: root
+    password: $2y$10$wR9NePjD6KIJ52OEOBVCbOiwju8JDW33Hk9JEQ7yl5oRRM6POUdX.
 auth_attempts: 5
 block_auth_min: 15
 http_proxy: ""
