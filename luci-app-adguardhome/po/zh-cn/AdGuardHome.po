@@ -1,3 +1,5 @@
+msgid "AdGuard Home"
+msgstr "广告过滤"
 
 msgid "Base Setting"
 msgstr "基础设置"
